@@ -1,0 +1,12 @@
+## Requirements.txt
+
+```txt
+pandas
+numpy
+sqlalchemy
+pymysql
+jupyter
+matplotlib
+seaborn
+powerbi
+```
