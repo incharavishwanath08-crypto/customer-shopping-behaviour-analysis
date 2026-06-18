@@ -152,6 +152,3 @@ Built an interactive dashboard to visualize customer shopping behavior and busin
 
 This project showcases a complete data analytics pipeline where raw customer shopping data was transformed into actionable business insights using **Python for preprocessing, SQL for analysis, and Power BI for visualization**.
 
---
-
-You can directly copy and paste this into your **GitHub README.md**. It is written in a professional format suitable for showcasing on your portfolio and for data analyst job applications.
